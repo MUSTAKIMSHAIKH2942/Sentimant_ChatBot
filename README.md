@@ -54,9 +54,4 @@ chatbot_app/
 │ └── index.html # Main HTML template
 └── README.md # This README file
 
-csharp
-Copy code
 
-## License
-
-This project is licensed under the MIT License.
